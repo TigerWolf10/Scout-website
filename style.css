@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    background-color: blueviolet;
+}
+.campus_mainDiv {
+    border: 1px solid lightslategrey;
+}
+.campus_mainDiv img {
+    width: 100%
+}
+.campus_mainDiv p {
+  margin: 20px;  
+}
+.achievement_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.achievement_head i {
+    float: right;
+}
+
+.achievement_text {
+    float: left;
+}
+
+.small {
+    width:400px;
+    height:200px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.a {
+    color: blueviolet;
+}
+
+#new {
+    background-color: blueviolet;
+    color: white;
+}
+#c {
+    color: rgb(64, 17, 81);
+    font-size: 20px;
+}
+
+#uni {
+    width: 200px;
+}
+
+#bad {
+    width: 300px;
+}
